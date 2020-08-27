@@ -1,4 +1,4 @@
-# fcc-smallest-common-multiple
+# FreeCodeCamp Intermediate Algorithm Scripting
 The easiest solution 
 
 # Smallest Common Multiple
